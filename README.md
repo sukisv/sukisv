@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header&text=Aris%20Sukiswanto&fontSize=38&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%26%20Mobile&descFontSize=18&descAlignY=62" width="100%" alt="Header"/>
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86DE&center=true&vCenter=true&width=450&lines=Backend+Developer+(Golang);Mobile+Developer+(Flutter);Clean+Code+%26+High+Performance;Lifelong+Learner+%26+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=2E86DE&center=true&vCenter=true&width=550&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Aris+Sukiswanto;Backend+Developer+(Golang);Mobile+Developer+(Flutter);Clean+Code+%26+High+Performance;Lifelong+Learner+%26+Tech+Enthusiast" alt="Typing Header" />
   </a>
 </div>
 
