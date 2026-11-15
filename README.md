@@ -23,3 +23,4 @@ I am a focused developer specializing in both *backend* and *mobile* development
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </p>
 
+
