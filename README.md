@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Aris%20Sukiswanto&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%26%20Mobile&descFontSize=20&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=180&section=header&text=Aris%20Sukiswanto&fontSize=38&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%26%20Mobile&descFontSize=18&descAlignY=62" width="100%" alt="Header"/>
 </div>
 
 <div align="center">
@@ -9,8 +9,8 @@
 </div>
 
 <p align="center">
-  <a href="mailto:contact.sukiswantoaris@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sukiswantoaris%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:arissukiswanto@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-arissukiswanto%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=sukisv&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Visitor Count" />
 </p>
@@ -21,7 +21,7 @@
 - 🔭 Focusing on **scalable backend architecture** and **cross-platform mobile apps**.
 - 💻 Core strengths: **Golang**, **JavaScript / Node.js**, **Flutter**, and **MySQL**.
 - 🌱 Always open for collaboration on innovative tech projects and open-source contributions.
-- 📧 Get in touch: [contact.sukiswantoaris@gmail.com](mailto:contact.sukiswantoaris@gmail.com)
+- 📧 Get in touch: [arissukiswanto@outlook.com](mailto:arissukiswanto@outlook.com)
 
 ---
 
@@ -42,8 +42,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sukisv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sukisv's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukisv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=sukisv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sukisv's GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=sukisv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
